@@ -1,0 +1,2 @@
+# ChromeAddonNodeRedConvertJP
+ノード名を日本語化します
