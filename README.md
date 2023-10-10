@@ -31,3 +31,5 @@ Donwload ZIPを選択し、ファイルをダウンロードします。
 5. Node-REDを開くとノード名が日本語になりました。
 
 <img src="https://github.com/NW-Lab/ChromeAddonNodeRedConvertJP/assets/8869009/1e5a5b83-d509-47bf-8d53-478a65b7b90c" width="30%"/>
+
+※このアドオンはローカル(localhost)でNode-REDを動かすことを前提で書いています。ほかで動かかしている場合はmanifest.jsonの6行目``` "matches":["http://localhost/*"],```を修正してください。
